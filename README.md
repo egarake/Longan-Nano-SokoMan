@@ -6,9 +6,9 @@ Longan Nano Soko Man Game
 
 SokoMan.zip
 
-    SokoMan064KB.bin
+    +SokoMan064KB.bin
 
-    SokoMan128KB.bin
+    +SokoMan128KB.bin
 
 [Sauce]
 
@@ -32,18 +32,15 @@ Pilot the SokoMan to carry baggage to the storage position.
 The SokoMan can carry only one piece of luggage at a time.
 The SokoMan can only push baggage.
 
-#：Wall
-@：Baggage
-+：Storage position
-V：Upward SokoMan
-<：Right SokoMan
->：Left SokoMan
-A：Downward SokoMan
+#：Wall.
+@：Baggage.
++：Storage position.
+V：Upward SokoMan.
+<：Right SokoMan.
+>：Left SokoMan.
+A：Downward SokoMan.
 
 Select a stage by left volume.
-
 Game Start push the BOOT0 SW.
-
 Turn the SokoMan's direction with the left Volume.
-
 Move the SokoMan with the BOOT0 SW.
