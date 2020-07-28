@@ -29,7 +29,9 @@ SW BOOT0 A8 3.3V
 [How to play]
 
 Pilot the SokoMan to carry baggage to the storage position.
+
 The SokoMan can carry only one piece of luggage at a time.
+
 The SokoMan can only push baggage.
 
 ＃：Wall.  
@@ -42,6 +44,9 @@ The SokoMan can only push baggage.
 Ａ：Downward SokoMan.
 
 Select a stage by left volume.
+
 Game Start push the BOOT0 SW.
+
 Turn the SokoMan's direction with the left Volume.
+
 Move the SokoMan with the BOOT0 SW.
