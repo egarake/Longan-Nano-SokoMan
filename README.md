@@ -30,7 +30,7 @@ SW BOOT0 A8 3.3V
 
 Pilot the SokoMan to carry baggage to the storage position.
 
-The SokoMan can carry only one piece of luggage at a time.
+The SokoMan can carry only one piece of baggage at a time.
 
 The SokoMan can only push baggage.
 
